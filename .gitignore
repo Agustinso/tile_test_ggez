@@ -1,1 +1,4 @@
 /target
+.vscode/launch.json
+.vscode/tasks.json
+Cargo.lock
